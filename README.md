@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jose-biskis
 - 👀 I’m interested in Sotfware engineering, Artificial intelligence, Technology in general
-- 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on MedTechs projects
 - 📫 How to reach me josebiskis@gmail.com
 
